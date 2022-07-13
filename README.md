@@ -1,2 +1,2 @@
-# Prolog_AI
-Prolog Examples 
+# Artificial Intelligence
+Prolog Examples Implemented in swi-prolog
